@@ -1,10 +1,10 @@
-Fond plat
-Pédalier 
+Moteur et admission (Moteur > admission > radiateur > échappement > reservoir > transmission secondaire)
 Direction (sans le volant)
-Moteur et admission (Moteur > admission > radiateur et reservoir > échappement)
-Cables, déjà installés sur le véhicule, mais dévoilés dans le même style que les vidéo
-que tu peux trouver sur internet, je t'envoie un lien
-Roues et liaison au sol
-Volant, siège et firewall
-carrosserie et crashbox
-L'aero
+Roues
+liaison au sols --> Fait
+Pédalier --> Fait
+pièces élec --> Fait
+Fond plat et firewall et crashbox --> Fait
+Cables
+siège carrosserie --> Fait
+L'aero --> Fait
