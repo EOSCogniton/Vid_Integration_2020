@@ -1,10 +1,18 @@
-Moteur et admission (Moteur > admission > radiateur > échappement > reservoir > transmission secondaire)
-Direction (sans le volant)
-Roues
+Moteur et admission (Moteur > admission > radiateur > échappement > reservoir > transmission secondaire) --> Fait - reste durites
+Direction--> Fait
 liaison au sols --> Fait
+Roues --> Fait
 Pédalier --> Fait
 pièces élec --> Fait
 Fond plat et firewall et crashbox --> Fait
 Cables
 siège carrosserie --> Fait
 L'aero --> Fait
+
+to do :
+- mouvements caméra :
+- ajuster temps pour être cohérent entre les systèmes
+- apparition câbles
+- Ajuster temps élec
+- Bande son
+- Bruitage
