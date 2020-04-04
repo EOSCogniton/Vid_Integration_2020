@@ -1,4 +1,4 @@
-Moteur et admission (Moteur > admission > radiateur > échappement > reservoir > transmission secondaire) --> Fait - reste durites
+Moteur et admission (Moteur > admission > radiateur > échappement > reservoir > transmission secondaire) --> Fait 
 Direction--> Fait
 liaison au sols --> Fait
 Roues --> Fait
@@ -10,9 +10,13 @@ siège carrosserie --> Fait
 L'aero --> Fait
 
 to do :
-- mouvements caméra :
-- ajuster temps pour être cohérent entre les systèmes
-- apparition câbles
-- Ajuster temps élec
+
+- rallonger arbre droite -->OK
+- apparition durites -->OK
+- Ajuster temps élec -->OK
+- ajuster temps pour être cohérent entre les systèmes --> enchainement ok, vitesse à vérifier
+- apparition câbles -->OK
+- mouvements caméra 
 - Bande son
 - Bruitage
+
