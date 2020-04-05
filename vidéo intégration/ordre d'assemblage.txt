@@ -16,6 +16,7 @@ to do :
 - Ajuster temps élec -->OK
 - ajuster temps pour être cohérent entre les systèmes --> enchainement ok, vitesse à vérifier
 - apparition câbles -->OK
+- Logo Volvo
 - mouvements caméra 
 - Bande son
 - Bruitage
